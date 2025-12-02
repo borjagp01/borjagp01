@@ -1,16 +1,14 @@
-## Hi there 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bgomezpons) 
+# About Me:
+An Electronics & Automation Engineer who loves building things that live at the intersection of embedded systems, IoT, and mobile apps<br>What I’m into:<br>📱 Flutter apps with smooth UI/UX (Cupertino + Material)<br>🔌 IoT, low-power hardware & Wemos D1 Mini<br>🌐 Secure BLE/WiFi communication<br>🧠 AI-enhanced mobile experiences<br>🧰 Clean architecture, reusable components, and good dev practices<br><br>Always learning. Always building. Always shipping. 🚀
 
-<!--
-**borjagp01/borjagp01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 My project:
+[![WindTrackr](https://img.shields.io/badge/WindTrackr-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.windtrackr.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+WindTrackr is a smart, connected system designed to monitor, track, and analyze wind conditions in real time. It combines IoT hardware, low-power sensors, and a web to deliver accurate wind data wherever it's needed. From outdoor sports to renewable energy setups or weather enthusiasts!
+
+The project brings together embedded electronics, wireless communication, and clean software architecture, offering a modern and user-friendly way to understand the wind with precision.
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
